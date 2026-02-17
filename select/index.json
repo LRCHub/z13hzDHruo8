@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "全部夢だった！",
+  "base_artist": "黒うさぎ",
+  "createdAt": "2026-02-17T15:52:53.027695Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "全部夢だった!",
+      "artist": "黒うさぎ",
+      "has_synced": false,
+      "path": "select/pl_01_全部夢だった!_黒うさぎ.txt"
+    }
+  ]
+}
